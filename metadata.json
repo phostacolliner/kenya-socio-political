@@ -1,0 +1,6 @@
+{
+  "name": "Kenya Socio-Political & Economic Intelligence System (K-SPEIS)",
+  "description": "Integrated National Intelligence System monitoring Kenya's 47-county political governance, macroeconomic stability indicators, cost-of-living indices, SHA healthcare, education, and civic dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
